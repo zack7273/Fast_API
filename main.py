@@ -15,7 +15,7 @@ def contact():
     return {
         "name": "xyz",
         "email": "xyz@gmail.com",
-        "phone": "1234567890"
+        "phone": "123456789"
     }
 
 

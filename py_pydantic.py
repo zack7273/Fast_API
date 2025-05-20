@@ -21,4 +21,5 @@ gift = Product_1(
     discount=10.0
 )
 
+
 print(gift.name)
