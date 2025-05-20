@@ -11,7 +11,7 @@ class Product_1(BaseModel):
     discount: float
 
 gift = Product_1(
-    name='gift',
+    name='flowers',
     price=100.0,
     order=True,
     quantity=10,

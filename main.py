@@ -27,3 +27,5 @@ def blog_name(user_name: str):
         "page": "blog",
         "user_name": user_name
     }
+
+
